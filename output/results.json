@@ -1,0 +1,118 @@
+[
+    {
+        "date": "2026-04-07T14:17:17.686197",
+        "strength": "Faible",
+        "score": 30,
+        "dictionary_attack": true,
+        "hash_algorithm": "bcrypt",
+        "cracked": true
+    },
+    {
+        "date": "2026-04-07T14:20:08.978563",
+        "is_strong": false,
+        "strength": "Faible",
+        "score": 30,
+        "dictionary_attack": true,
+        "hash_algorithm": "bcrypt",
+        "cracked": true
+    },
+    {
+        "date": "2026-04-07T14:20:27.798638",
+        "is_strong": true,
+        "strength": "Fort",
+        "score": 80,
+        "dictionary_attack": false,
+        "hash_algorithm": "bcrypt",
+        "cracked": false
+    },
+    {
+        "date": "2026-04-07T14:23:31.834201",
+        "is_strong": false,
+        "strength": "Faible",
+        "score": 30,
+        "dictionary_attack": true,
+        "hash_algorithm": "bcrypt",
+        "cracked": true
+    },
+    {
+        "date": "2026-04-07T14:23:34.509249",
+        "is_strong": false,
+        "strength": "Faible",
+        "score": 30,
+        "dictionary_attack": true,
+        "hash_algorithm": "bcrypt",
+        "cracked": true
+    },
+    {
+        "date": "2026-04-07T14:23:35.418305",
+        "is_strong": false,
+        "strength": "Faible",
+        "score": 30,
+        "dictionary_attack": true,
+        "hash_algorithm": "bcrypt",
+        "cracked": true
+    },
+    {
+        "date": "2026-04-07T14:23:35.755084",
+        "is_strong": false,
+        "strength": "Faible",
+        "score": 30,
+        "dictionary_attack": true,
+        "hash_algorithm": "bcrypt",
+        "cracked": true
+    },
+    {
+        "date": "2026-04-07T14:23:36.089063",
+        "is_strong": false,
+        "strength": "Faible",
+        "score": 30,
+        "dictionary_attack": true,
+        "hash_algorithm": "bcrypt",
+        "cracked": true
+    },
+    {
+        "date": "2026-04-07T14:23:49.281972",
+        "is_strong": false,
+        "strength": "Faible",
+        "score": 30,
+        "dictionary_attack": true,
+        "hash_algorithm": "bcrypt",
+        "cracked": true
+    },
+    {
+        "date": "2026-04-07T14:24:04.005936",
+        "is_strong": false,
+        "strength": "Faible",
+        "score": 30,
+        "dictionary_attack": true,
+        "hash_algorithm": "bcrypt",
+        "cracked": true
+    },
+    {
+        "date": "2026-04-07T14:24:19.851649",
+        "is_strong": false,
+        "strength": "Faible",
+        "score": 30,
+        "dictionary_attack": true,
+        "hash_algorithm": "bcrypt",
+        "cracked": true
+    },
+    {
+        "date": "2026-04-07T14:24:37.916155",
+        "is_strong": true,
+        "strength": "Fort",
+        "score": 80,
+        "dictionary_attack": false,
+        "hash_algorithm": "bcrypt",
+        "cracked": false
+    },
+    {
+        "date": "2026-04-07T14:26:34.148812",
+        "is_strong": true,
+        "strength": "Fort",
+        "score": 80,
+        "dictionary_attack": false,
+        "hash_algorithm": "bcrypt",
+        "cracked": false
+    }
+]
